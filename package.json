@@ -1,0 +1,12 @@
+{
+  "name": "@wangminhei/Xiao",
+  "version": "1.0.0",
+  "description": "Quest for tea.xyz",
+  "main": "index.js",
+  "author": "@wangminhei",
+  "repository": "https://github.com/wangminhei/Xiao.git",
+  "license": "ISC",
+  "dependencies": {
+    "@wangminhei/Xiao": "^1.0.0"
+  }
+}
